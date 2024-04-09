@@ -1,16 +1,14 @@
-# calculator
+**Project Description:**
 
-A new Flutter project.
+The project aims to develop a basic calculator application using the Flutter framework. The calculator app will provide 
+users with a simple interface to perform arithmetic operations such as addition, subtraction, multiplication, and division.
 
-## Getting Started
+**Key Features:**
 
-This project is a starting point for a Flutter application.
+**User Interface:** Design a user-friendly interface for the calculator app, featuring buttons for numeric digits (0-9),
+arithmetic operators (+, -, *, /), decimal point (.), and special functions (e.g., clear, delete).
 
-A few resources to get you started if this is your first Flutter project:
+**Input Handling:** Implement logic to handle user input from button presses and display the inputted numbers and operations on the calculator screen in real time.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Arithmetic Operations:** Implement the core functionality of the calculator, including addition, subtraction, multiplication, and division.
+Ensure accurate calculation of results based on user input.
